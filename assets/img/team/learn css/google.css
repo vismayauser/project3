@@ -1,0 +1,16 @@
+h1{
+	color:red;
+	background-color:yellow;
+	text-align:left;
+    font-style:bold italic;
+}
+p{
+	background-color:white;
+	color:green;
+	font-size:20px;
+	text-align:justify;
+	font-family:imes New Roman;
+}
+body{
+	background-color:white;
+}

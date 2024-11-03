@@ -1,0 +1,16 @@
+h1{
+	color:red;
+	font-style:Italic;
+	text-align:left;
+	background-color:yellow;
+}
+p{
+	color:green;
+	text-align:justify;
+	font-size:25px;
+	font-family:Times New Roman;
+	font-family:Gabriola;
+}
+body{
+	background-color:white;
+}

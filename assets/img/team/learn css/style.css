@@ -1,0 +1,18 @@
+h1{
+	color:red;
+	text-align:center;
+	text-align:right;
+	text-align:left;
+}
+
+p{
+	color:black;
+	text-align:justify;
+	font-size:25px;
+	font-family:Segoe Print;
+	font-family:Gabriola;
+}
+
+body{
+	background-color:yellow;
+}
